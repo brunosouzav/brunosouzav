@@ -1,7 +1,7 @@
 ## Me chamo Bruno Souza, sou Backend Developer 🧑🏻‍💻
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunosouzav&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunosouzav&show_icons=true&theme=gotham)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosouzav&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosouzav&layout=compact&theme=gotham)
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade para trabalhar com Java/Spring
 - 💻 Estou estudando Angular paralelamente com Java para completar minhas stacks
