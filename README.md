@@ -3,7 +3,7 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosouzav&layout=compact&theme=github_dark)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeuWakaTimeUsername&theme=github_dark)](https://wakatime.com)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunosouzav&theme=github_dark)](https://wakatime.com)
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade para trabalhar com Java/Spring
 - 💻 Estou estudando Angular paralelamente com Java para completar minhas stacks
