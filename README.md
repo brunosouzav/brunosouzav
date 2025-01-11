@@ -1,6 +1,8 @@
 ## Me chamo Bruno Souza, sou Backend Developer 🧑🏻‍💻.
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunosouzav&show_icons=true&theme=radical)
 
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosouzav&layout=compact&theme=radical)
+---
 - 🔭 Atualmente estou em busca da minha primeira oportunidade para trabalhar com Java/Spring
 - 💻 Estou estudando Angular paralelamente com Java para completar minhas stacks
 - 📩 brunocloud78@gmail.com/www.linkedin.com/in/brunosouzav
@@ -22,14 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
 
 ---
 
